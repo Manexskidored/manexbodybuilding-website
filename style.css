@@ -257,11 +257,14 @@ body {
     }
 
     .gallery {
-        margin: 5px;
-        width: 57px;
-        height: "57";
+        margin: 10px;
+        width: 65px;
+        height: "65";
     }
-
+    
+    .gallery .description {
+    padding: 6px;
+    }
 }
 
 @media screen and (max-width: 900px) and (min-width: 600px) {
@@ -295,8 +298,12 @@ body {
     }
 
     .gallery {
-        margin: 2px;
-        width: 100px;
-        height: "100";
+        margin: 8px;
+        width: 200px;
+        height: "200";
+    }
+    
+    .gallery .description {
+    padding: 5px;
     }
 }
