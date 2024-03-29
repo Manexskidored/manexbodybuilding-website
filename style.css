@@ -120,7 +120,7 @@ body {
 
 .icons {
     text-align: center;
-    font-size: xx-small;
+    font-size: small;
 }
 
 .icons a {
@@ -128,45 +128,45 @@ body {
     margin-right: 50px;
 }
 
-.fa-solid.fa-house.fa-5x {
+.fa-solid.fa-house.fa-2xl {
     color: hsl(0, 0%, 67%);
 }
 
-.fa-solid.fa-house.fa-5x:hover {
+.fa-solid.fa-house.fa-2xl:hover {
     color: hsl(0, 0%, 76%);
 }
 
 
-.fa-brands.fa-twitter.fa-5x {
+.fa-brands.fa-twitter.fa-2xl {
     color: hsl(188, 100%, 50%);
 }
 
-.fa-brands.fa-twitter.fa-5x:hover {
+.fa-brands.fa-twitter.fa-2xl:hover {
     color: hsl(188, 100%, 40%);
 }
 
 
-.fa-brands.fa-youtube.fa-5x {
+.fa-brands.fa-youtube.fa-2xl {
     color: hsl(0, 84%, 49%);
 }
 
-.fa-brands.fa-youtube.fa-5x:hover {
+.fa-brands.fa-youtube.fa-2xl:hover {
     color: hsl(0, 84%, 59%);
 }
 
-.fa-brands.fa-whatsapp.fa-5x {
+.fa-brands.fa-whatsapp.fa-2xl {
     color: hsl(120, 96%, 33%);
 }
 
-.fa-brands.fa-whatsapp.fa-5x:hover {
+.fa-brands.fa-whatsapp.fa-2xl:hover {
     color: hsl(120, 96%, 43%);
 }
 
-.fa-brands.fa-tiktok.fa-5x {
+.fa-brands.fa-tiktok.fa-2xl {
     color: hsl(0, 0%, 10%);
 }
 
-.fa-brands.fa-tiktok.fa-5x:hover {
+.fa-brands.fa-tiktok.fa-2xl:hover {
     color: hsl(0, 0%, 20%);
 }
 
